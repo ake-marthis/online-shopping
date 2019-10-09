@@ -247,7 +247,6 @@
             </div>
         </footer>
     </div>
-    <!-- /.container -->
 
     <!-- JavaScript -->
     <script src="${js}/jquery.js"></script>
