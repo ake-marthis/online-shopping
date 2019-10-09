@@ -14,5 +14,5 @@ public class PageController {
 		mv.addObject("greeting", " Dieu fait grâce ake willy");
 		return mv;
 	}
-
+	
 }
