@@ -1,4 +1,3 @@
-
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -16,13 +15,15 @@
                 <ul class="nav navbar-nav">
                     <li id="about"><a href="${contextRoot}/about">About</a>
                     </li>
-                    <li id="listProducts"><a href="${contextRoot}/listProduits">view produit</a>
-                    </li>
                     <li id="contact"><a href="${contextRoot}/contact">Contact</a>
+                    </li>
+                    
+                    <li id="listProducts">
+                    <a href="${contextRoot}/show/all/products">view produits</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
-    </nav>
+ </nav>
