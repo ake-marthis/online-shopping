@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.willy</groupId>
 	<artifactId>onlineshopping</artifactId>
-	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>onlineshopping Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+	
 	<!-- Version information will be stored here -->
 	<properties>
 		<javaee.version>7.0</javaee.version>
@@ -111,4 +111,7 @@
 
 		<finalName>onlineshopping</finalName>
 	</build>
+	
+		<packaging>war</packaging>
+	
 </project>
